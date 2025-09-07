@@ -1,11 +1,48 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  
+  
+  
   <channel>
-    <item><title>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc]</title><description>Episode from Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</description><enclosure url="https://example.com/audio/Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a" length="13659033" type="audio/mpeg" /><guid>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</guid><pubDate>Sun, 07 Sep 2025 11:59:40 GMT</pubDate></item><title>My Podcast</title>
-    <link>https://example.com/podcast</link>
+    
+    
+    
+    
+    <title>My Podcast</title>
+    
+    
+    
+    
     <description>Personal feed for my audio files</description>
+    
+    
+    
+    
     <language>en-uk</language>
+    
+    
+    
+    
     <ns0:author>Me</ns0:author>
-    <lastBuildDate>Sun, 07 Sep 2025 12:00:00 GMT</lastBuildDate>
+    
+    
+    
+    
+    <lastBuildDate>Sun, 07 Sep 2025 18:21:54 -0000</lastBuildDate>
+    
+    
+  
+    <item>
+      <title>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc]</title>
+      <description>Episode from Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</description>
+      <enclosure url="https://podcasterr.netlify.app/download/audio/Stephanie%20Kelton%EF%BC%9A%20The%20big%20myth%20of%20government%20deficits%20%EF%BD%9C%20TED%20%5BFATQ0Yf0Fhc%5D.m4a" length="13659033" type="audio/mpeg"/>
+      <guid>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</guid>
+      <pubDate>Sun, 07 Sep 2025 18:21:54 -0000</pubDate>
+    </item>
   </channel>
+  
+  
+
+
 </rss>
