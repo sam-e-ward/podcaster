@@ -1,24 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  
   <channel>
+    
+    
     <title>My Podcast</title>
+    
+    
     <description>Personal feed for my audio files</description>
+    
+    
     <language>en-uk</language>
+    
+    
     <ns0:author>Me</ns0:author>
-    <lastBuildDate>Sun, 07 Sep 2025 18:26:22 -0000</lastBuildDate>
+    
+    
+    <lastBuildDate>Mon, 08 Sep 2025 16:52:06 -0000</lastBuildDate>
+    
+    
     <item>
+      
+      
       <title>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc]</title>
+      
+      
       <description>Episode from Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</description>
+      
+      
       <enclosure url="https://podcasterr.netlify.app/download/audio/Stephanie%20Kelton%EF%BC%9A%20The%20big%20myth%20of%20government%20deficits%20%EF%BD%9C%20TED%20%5BFATQ0Yf0Fhc%5D.m4a" length="13659033" type="audio/mpeg"/>
+      
+      
       <guid>Stephanie Kelton： The big myth of government deficits ｜ TED [FATQ0Yf0Fhc].m4a</guid>
+      
+      
       <pubDate>Sun, 07 Sep 2025 18:21:54 -0000</pubDate>
+      
+    
+    </item>
+    
+    
+    <item>
+      <title>Jason Hickel ｜ The Divide： A Brief Guide to Global Inequality and Its Solutions ｜ Talks at Google [IZHZbGb3PUA]</title>
+      <description>Episode from Jason Hickel ｜ The Divide： A Brief Guide to Global Inequality and Its Solutions ｜ Talks at Google [IZHZbGb3PUA].m4a</description>
+      <enclosure url="https://podcasterr.netlify.app/download/audio/Jason%20Hickel%20%EF%BD%9C%20The%20Divide%EF%BC%9A%20A%20Brief%20Guide%20to%20Global%20Inequality%20and%20Its%20Solutions%20%EF%BD%9C%20Talks%20at%20Google%20%5BIZHZbGb3PUA%5D.m4a" length="59403185" type="audio/mpeg"/>
+      <guid>Jason Hickel ｜ The Divide： A Brief Guide to Global Inequality and Its Solutions ｜ Talks at Google [IZHZbGb3PUA].m4a</guid>
+      <pubDate>Mon, 08 Sep 2025 16:52:06 -0000</pubDate>
     </item>
     <item>
+      
+      
       <title>What if economics is wrong about scarcity？ [YR2FcHoQLlU]</title>
+      
+      
       <description>Episode from What if economics is wrong about scarcity？ [YR2FcHoQLlU].m4a</description>
+      
+      
       <enclosure url="https://podcasterr.netlify.app/download/audio/What%20if%20economics%20is%20wrong%20about%20scarcity%EF%BC%9F%20%5BYR2FcHoQLlU%5D.m4a" length="11726926" type="audio/mpeg"/>
+      
+      
       <guid>What if economics is wrong about scarcity？ [YR2FcHoQLlU].m4a</guid>
+      
+      
       <pubDate>Sun, 07 Sep 2025 18:26:22 -0000</pubDate>
+      
+    
     </item>
+    
+  
   </channel>
+  
+
 </rss>

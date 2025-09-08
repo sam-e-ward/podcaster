@@ -2,7 +2,7 @@
 
 docker build -t feed-downloader .
 
-RepoRoot="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+RepoRoot="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 ArgsString="$*"
 
